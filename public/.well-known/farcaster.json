@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "PredictaChat",
+    "subtitle": "Built with Zara",
+    "description": "PredictaChat is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://292e55147b2c4b969ce7a7b8070f6e37-0ylg.vercel.app",
+    "splashImageUrl": "https://292e55147b2c4b969ce7a7b8070f6e37-0ylg.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://292e55147b2c4b969ce7a7b8070f6e37-0ylg.vercel.app/image.png",
+    "tagline": "PredictaChat",
+    "screenshotUrls": [
+      "https://292e55147b2c4b969ce7a7b8070f6e37-0ylg.vercel.app/screenshot.png",
+      "https://292e55147b2c4b969ce7a7b8070f6e37-0ylg.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://292e55147b2c4b969ce7a7b8070f6e37-0ylg.vercel.app/api/webhook"
+  }
+}
